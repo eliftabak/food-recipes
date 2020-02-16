@@ -1,0 +1,55 @@
+body {
+  background: url("/images/pinkred.jpeg") no-repeat center center fixed;
+  background-size: cover;
+  color: #914e45;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.body-text{
+  padding-left: 35%;
+}
+
+.navbar {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+.navbar-nav  li a:hover {
+    color: #ef7269 !important;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+	position: absolute;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color:  #f7b3aa;
+}
+
+.footer p {
+	margin-top: 25px;
+	font-size: 12px;
+  color: #fff;
+}
+
+.btn {
+  background-color: #ef7269;
+  border-color: #ef7269;
+}
+
+.btn:hover {
+  background-color: #ef7269 ;
+}
